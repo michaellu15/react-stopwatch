@@ -1,2 +1,2 @@
-# A Basic React Stopwatch
+#Stopwatch
 (https://michaellu15.github.io/react-stopwatch/)
